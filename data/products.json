@@ -1,0 +1,218 @@
+[
+  {
+    "image": "assets/images/product/product-01.jpg",
+    "title": "Elona Bedside Grey Table",
+    "price": "40.00",
+    "old_price": null,
+    "discount": null,
+    "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enimlo ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehen in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officiarty deserunt mollit anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantiu totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, A simple and elegant bedside table, perfect for your bedroom or living space. Features a minimalistic design with ample storage for your essentials.",
+    "information": "This grey bedside table is crafted from high-quality materials, ensuring durability and stability. Its sleek design adds a modern touch to any room.",
+    "fabric_and_care": [
+      "MDF and wood veneer",
+      "Soft-close drawer",
+      "Easy to clean with a damp cloth",
+      "Requires minimal assembly"
+    ],
+    "size": "Height: 45cm; Width: 50cm; Depth: 40cm",
+    "reviews": [
+      {
+        "author": "Jane Doe",
+        "date": "10/12/2023",
+        "rating": 90,
+        "comment": "Great value for the price, sturdy and looks amazing in my bedroom!"
+      },
+      {
+        "author": "Mark Smith",
+        "date": "09/15/2023",
+        "rating": 80,
+        "comment": "Very nice table, but the assembly instructions could be clearer."
+      }
+    ]
+  },
+  {
+    "image": "assets/images/product/product-02.jpg",
+    "title": "Simple Minimal Chair",
+    "price": "20.00",
+    "old_price": "40.00",
+    "discount": "50%",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enimlo ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehen in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officiarty deserunt mollit anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantiu totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, A comfortable and stylish chair that fits any minimalistic environment. Perfect for dining rooms or study areas.",
+    "information": "Crafted with a durable frame and a sleek, simple design that ensures both comfort and aesthetic appeal.",
+    "fabric_and_care": [
+      "Metal and wood frame",
+      "Matte finish",
+      "Spot clean only",
+      "Assembly required"
+    ],
+    "size": "Height: 90cm; Width: 45cm; Depth: 50cm",
+    "reviews": [
+      {
+        "author": "Emily Johnson",
+        "date": "08/20/2023",
+        "rating": 85,
+        "comment": "Comfortable chair with a great modern look, though it could use more padding."
+      },
+      {
+        "author": "John Riley",
+        "date": "07/30/2023",
+        "rating": 75,
+        "comment": "The chair is stylish but a bit hard for long sitting sessions."
+      }
+    ]
+  },
+  {
+    "image": "assets/images/product/product-03.jpg",
+    "title": "Pendant Chandelier Light",
+    "price": "40.00",
+    "old_price": null,
+    "discount": null,
+    "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enimlo ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehen in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officiarty deserunt mollit anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantiu totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, A beautiful pendant chandelier that adds an elegant and cozy atmosphere to your room.",
+    "information": "This chandelier features a timeless design, perfect for living rooms or dining areas.",
+    "fabric_and_care": [
+      "Metal frame with glass fixtures",
+      "Adjustable hanging length",
+      "Wipe clean with a dry cloth",
+      "Bulb not included"
+    ],
+    "size": "Height: 60cm; Diameter: 45cm",
+    "reviews": [
+      {
+        "author": "Laura Green",
+        "date": "09/05/2023",
+        "rating": 95,
+        "comment": "Absolutely love this chandelier! It’s the perfect addition to my living room."
+      },
+      {
+        "author": "David Brown",
+        "date": "08/12/2023",
+        "rating": 85,
+        "comment": "Looks great, but installation was a bit tricky."
+      }
+    ]
+  },
+  {
+    "image": "assets/images/product/product-04.jpg",
+    "title": "High Quality Vase Bottle",
+    "price": "20.00",
+    "old_price": "40.00",
+    "discount": "50%",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enimlo ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehen in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officiarty deserunt mollit anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantiu totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, A stunning vase perfect for adding a decorative touch to any space. Ideal for fresh or dried flowers.",
+    "information": "This vase is made from high-quality glass and is designed to be both functional and aesthetically pleasing.",
+    "fabric_and_care": [
+      "High-quality glass",
+      "Wipe clean with a damp cloth",
+      "Not suitable for dishwashers",
+      "Keep away from direct sunlight"
+    ],
+    "size": "Height: 25cm; Diameter: 15cm",
+    "reviews": [
+      {
+        "author": "Sophie White",
+        "date": "10/02/2023",
+        "rating": 90,
+        "comment": "Beautiful vase, looks even better in person. Great value for money!"
+      }
+    ]
+  },
+  {
+    "image": "assets/images/product/product-05.jpg",
+    "title": "Living & Bedroom Chair",
+    "price": "20.00",
+    "old_price": "40.00",
+    "discount": "50%",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enimlo ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehen in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officiarty deserunt mollit anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantiu totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, A versatile chair suitable for both living and bedroom spaces, offering comfort and style.",
+    "information": "This chair is crafted with a durable frame and comfortable cushioning, ideal for relaxing or reading.",
+    "fabric_and_care": [
+      "Fabric upholstery",
+      "Wooden frame",
+      "Spot clean only",
+      "Assembly required"
+    ],
+    "size": "Height: 80cm; Width: 60cm; Depth: 55cm",
+    "reviews": [
+      {
+        "author": "Oliver Scott",
+        "date": "09/10/2023",
+        "rating": 85,
+        "comment": "Comfortable and well-made, but slightly smaller than expected."
+      }
+    ]
+  },
+  {
+    "image": "assets/images/product/product-06.jpg",
+    "title": "TTAAAHerman Arm Grey Chair",
+    "price": "40.00",
+    "old_price": null,
+    "discount": null,
+    "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enimlo ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehen in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officiarty deserunt mollit anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantiu totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, A classic armchair with a modern twist. Ideal for living spaces that need a touch of elegance.",
+    "information": "This armchair is crafted with quality materials, providing both style and comfort.",
+    "fabric_and_care": [
+      "Wood and fabric",
+      "Foam cushioning",
+      "Vacuum regularly to remove dust",
+      "Assembly required"
+    ],
+    "size": "Height: 85cm; Width: 70cm; Depth: 75cm",
+    "reviews": [
+      {
+        "author": "Charlotte Reed",
+        "date": "08/22/2023",
+        "rating": 90,
+        "comment": "Beautiful chair, very comfortable. Perfect addition to my living room."
+      }
+    ]
+  },
+  {
+    "image": "assets/images/product/product-11.jpg",
+    "title": "Lace Bar Stool",
+    "price": "20.00",
+    "old_price": "40.00",
+    "discount": "50%",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enimlo ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehen in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officiarty deserunt mollit anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantiu totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, A stylish bar stool that brings a touch of class to your kitchen or bar area.",
+    "information": "Made with high-quality materials, this bar stool is both sturdy and stylish.",
+    "fabric_and_care": [
+      "Metal and faux leather",
+      "Adjustable height",
+      "Clean with a soft cloth",
+      "No assembly required"
+    ],
+    "size": "Height: 90cm; Width: 40cm; Depth: 40cm",
+    "reviews": [
+      {
+        "author": "Ben Harper",
+        "date": "09/18/2023",
+        "rating": 80,
+        "comment": "Comfortable and easy to adjust, but the base is a bit light."
+      }
+    ]
+  },
+  {
+    "image": "assets/images/product/product-08.jpg",
+    "title": "Herman Seater Sofa",
+    "price": "40.00",
+    "old_price": null,
+    "discount": null,
+    "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enimlo ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehen in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officiarty deserunt mollit anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantiu totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, A spacious and comfortable seater sofa, perfect for family gatherings or relaxing evenings.",
+    "information": "Crafted with a durable frame and soft fabric, this sofa provides maximum comfort and style.",
+    "fabric_and_care": [
+      "Fabric upholstery",
+      "Wooden frame",
+      "Spot clean recommended",
+      "Requires minor assembly"
+    ],
+    "size": "Height: 85cm; Width: 200cm; Depth: 90cm",
+    "reviews": [
+      {
+        "author": "Mia Collins",
+        "date": "10/01/2023",
+        "rating": 95,
+        "comment": "Extremely comfortable and looks fantastic in our living room!"
+      },
+      {
+        "author": "Ethan Brooks",
+        "date": "09/25/2023",
+        "rating": 85,
+        "comment": "Great sofa, but I wish the fabric was a bit easier to clean."
+      }
+    ]
+  }
+]

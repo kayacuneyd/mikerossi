@@ -7,7 +7,7 @@
                 <div class="col-xl-12 col-md-4">
                     <!-- Footer Logo Start -->
                     <div class="footer-logo">
-                        <a href="index.html"><img src="../../assets/images/logo.png" width="154" height="46" alt="Logo" /></a>
+                        <a href="index.html"><img src="assets/images/logo.png" width="154" height="46" alt="Logo" /></a>
                     </div>
                     <!-- Footer Logo End -->
                 </div>
@@ -126,27 +126,27 @@
                                     <div class="swiper-wrapper">
                                         <div class="swiper-slide">
                                             <div class="single-img">
-                                                <img src="../assets/images/product-details/product-details-1.jpg" alt="Product Image" />
+                                                <img src="assets/images/product-details/product-details-1.jpg" alt="Product Image" />
                                             </div>
                                         </div>
                                         <div class="swiper-slide">
                                             <div class="single-img">
-                                                <img src="../assets/images/product-details/product-details-2.jpg" alt="Product Image" />
+                                                <img src="assets/images/product-details/product-details-2.jpg" alt="Product Image" />
                                             </div>
                                         </div>
                                         <div class="swiper-slide">
                                             <div class="single-img">
-                                                <img src="../assets/images/product-details/product-details-3.jpg" alt="Product Image" />
+                                                <img src="assets/images/product-details/product-details-3.jpg" alt="Product Image" />
                                             </div>
                                         </div>
                                         <div class="swiper-slide">
                                             <div class="single-img">
-                                                <img src="../assets/images/product-details/product-details-4.jpg" alt="Product Image" />
+                                                <img src="assets/images/product-details/product-details-4.jpg" alt="Product Image" />
                                             </div>
                                         </div>
                                         <div class="swiper-slide">
                                             <div class="single-img">
-                                                <img src="../assets/images/product-details/product-details-5.jpg" alt="Product Image" />
+                                                <img src="assets/images/product-details/product-details-5.jpg" alt="Product Image" />
                                             </div>
                                         </div>
                                     </div>
@@ -159,19 +159,19 @@
                                 <div class="swiper-container">
                                     <div class="swiper-wrapper">
                                         <div class="swiper-slide">
-                                            <img src="../assets/images/product-details/product-details-1.jpg" alt="Product Thumbnail" />
+                                            <img src="assets/images/product-details/product-details-1.jpg" alt="Product Thumbnail" />
                                         </div>
                                         <div class="swiper-slide">
-                                            <img src="../assets/images/product-details/product-details-2.jpg" alt="Product Thumbnail" />
+                                            <img src="assets/images/product-details/product-details-2.jpg" alt="Product Thumbnail" />
                                         </div>
                                         <div class="swiper-slide">
-                                            <img src="../assets/images/product-details/product-details-3.jpg" alt="Product Thumbnail" />
+                                            <img src="assets/images/product-details/product-details-3.jpg" alt="Product Thumbnail" />
                                         </div>
                                         <div class="swiper-slide">
-                                            <img src="../assets/images/product-details/product-details-4.jpg" alt="Product Thumbnail" />
+                                            <img src="assets/images/product-details/product-details-4.jpg" alt="Product Thumbnail" />
                                         </div>
                                         <div class="swiper-slide">
-                                            <img src="../assets/images/product-details/product-details-5.jpg" alt="Product Thumbnail" />
+                                            <img src="assets/images/product-details/product-details-5.jpg" alt="Product Thumbnail" />
                                         </div>
                                     </div>
                                 </div>
@@ -302,27 +302,26 @@
 </div>
 <!-- Quick View End -->
 
-<!-- JS
-    ============================================ -->
+<!-- JS ============================================ -->
 
 <!-- Modernizer & jQuery JS -->
-<script src="../assets/js/vendor/modernizr-3.11.2.min.js"></script>
-<script src="../assets/js/vendor/jquery-3.5.1.min.js"></script>
+<script src="assets/js/vendor/modernizr-3.11.2.min.js"></script>
+<script src="assets/js/vendor/jquery-3.5.1.min.js"></script>
 
 <!-- Bootstrap JS -->
-<script src="../assets/js/plugins/popper.min.js"></script>
-<script src="../assets/js/plugins/bootstrap.min.js"></script>
+<script src="assets/js/plugins/popper.min.js"></script>
+<script src="assets/js/plugins/bootstrap.min.js"></script>
 
 <!-- Plugins JS -->
-<script src="../assets/js/plugins/swiper-bundle.min.js"></script>
-<script src="../assets/js/plugins/ajax-contact.js"></script>
-<script src="../assets/js/plugins/odometer.min.js"></script>
-<script src="../assets/js/plugins/select2.min.js"></script>
-<script src="../assets/js/plugins/ion.rangeSlider.min.js"></script>
-<script src="../assets/js/plugins/jquery.zoom.min.js"></script>
+<script src="assets/js/plugins/swiper-bundle.min.js"></script>
+<script src="assets/js/plugins/ajax-contact.js"></script>
+<script src="assets/js/plugins/odometer.min.js"></script>
+<script src="assets/js/plugins/select2.min.js"></script>
+<script src="assets/js/plugins/ion.rangeSlider.min.js"></script>
+<script src="assets/js/plugins/jquery.zoom.min.js"></script>
 
 <!-- Main JS -->
-<script src="../assets/js/main.js"></script>
+<script src="assets/js/main.js"></script>
 
 </body>
 
